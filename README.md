@@ -11,16 +11,16 @@ This program is a straightforward and efficient temperature unit converter devel
 
 🧠 Concepts Demonstrated
 
--Handling user input and output in Python
--Use of conditional (if/else) logic
--Performing calculations with floating-point numbers
+- Handling user input and output in Python
+- Use of conditional (if/else) logic
+- Performing calculations with floating-point numbers
 
 💻 Example Output
 
-Enter the temperature: 100
-Enter the unit (C/F/K): c
+ Enter the temperature: 100
+ Enter the unit (C/F/K): c
 
-Celsius: 100.00 C
-Fahrenheit: 212.00 F
-Kelvin: 373.15 K
+ Celsius: 100.00 C
+ Fahrenheit: 212.00 F
+ Kelvin: 373.15 K
 
