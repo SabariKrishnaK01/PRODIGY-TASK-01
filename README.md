@@ -1,6 +1,4 @@
-# PRODIGY-TASK-01
-
-🌡️ Temperature Converter
+# PRODIGY-TASK-01 - 🌡️ Temperature Converter
 
 This program is a straightforward and efficient temperature unit converter developed in Python. It prompts the user to enter a temperature value along with its unit (Celsius, Fahrenheit, or Kelvin), and then calculates and displays the equivalent values in the other two units.
 
