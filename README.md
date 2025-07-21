@@ -13,7 +13,7 @@ This program is a straightforward and efficient temperature unit converter devel
 
 🧠 Concepts Demonstrated
 
--Handling user input and output in C
+-Handling user input and output in Python
 -Use of conditional (if/else) logic
 -Performing calculations with floating-point numbers
 
